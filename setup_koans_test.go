@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	__string__       string  = "impossibly lame value"
+	__string__       string  = "bc" // this would be the value needed
 	__int__          int     = -1
 	__positive_int__ int     = 42
 	__byte__         byte    = 255
